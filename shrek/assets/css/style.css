@@ -1,0 +1,62 @@
+.h1{
+    color: red;
+    margin-left: 490px;
+}
+.h1:hover{
+    color:gold;
+}
+.a{
+    color: silver;
+    margin-left: 40px;
+}
+.a:hover{
+    color: gold;
+}
+.img{
+    width: 450px;
+    margin-left: 350px;
+}
+.h5{
+    color: aliceblue;
+}
+.sub{
+    color: rgb(203, 213, 175);
+    background-color: darkred;
+    border-radius: 5px;
+    margin-left: 200px;
+}
+.sub:hover{
+    background-color: red;
+    color: gold;
+
+}
+.sub2{
+    color: rgb(203, 213, 175);
+    background-color: darkred;
+    border-radius: 5px;
+    margin-left: 200px;
+}
+.sub2:hover{
+    background-color: red;
+    color: gold;
+
+}
+.sub3{
+    color: rgb(203, 213, 175);
+    background-color: darkred;
+    border-radius: 5px;
+    margin-left: 200px;
+}
+.sub3:hover{
+    background-color: red;
+    color: gold;
+
+}
+.h4{
+    color: aliceblue;
+    margin-left: 50px;
+}
+.CL{
+    color: aliceblue;
+    margin-left: 50px;
+}
